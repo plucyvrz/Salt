@@ -10,7 +10,7 @@
 
 # Intruksi
 
-<a href="https://ibb.co/mhHXw35"><img src="https://i.ibb.co/r5ZcSV2/image.png" alt="image" border="0"></a>
+<a href="https://i.ibb.co/r5ZcSV2/image.png"><img src="https://i.ibb.co/r5ZcSV2/image.png" alt="image" border="0"></a>
 1. Periksa username dan password untuk menggunakan WebUI.
 
 2. Ceklis model dan extension yang ingin di gunakan, saat ini ada 30 Models yang berbeda.
