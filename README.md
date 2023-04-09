@@ -8,7 +8,7 @@
 # Run in Colab
 <center><a href="https://colab.research.google.com/github/plucyvrz/WebUI/blob/master/StableDiffusionUI.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></center>
 
-# Intruksi
+# Instruksi
 
 <a href="https://i.ibb.co/r5ZcSV2/image.png"><img src="https://i.ibb.co/r5ZcSV2/image.png" alt="image" border="0"></a>
 1. Periksa username dan password untuk menggunakan WebUI.
