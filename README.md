@@ -21,7 +21,7 @@
 |     v2     |   ControlNet  |
 |    Anime   |  ImageBrowser |
 |     Art    |   darkTheme   |
-|            |  InfiniteZoom |
+|  Realistic |  InfiniteZoom |
 |            |    DeForum    |
 |            |     AddNet    |
 
@@ -43,6 +43,32 @@ Lora Models : [Google Drive](https://drive.google.com/drive/folders/1-J3PuhCGITd
 Upscaler : [Google Drive](https://drive.google.com/drive/folders/1-IsJh63QLKYKD5zGyDp6ybbi9Gso1MbL?usp=share_link)
 
 Embeddings : [Google Drive](https://drive.google.com/drive/folders/1-_u4cSFqClRpv58p_PF28p_sRknGCzar?usp=share_link)
+
+# Cara memasang files agar bisa digunakan
+Untuk menggunakan semua files yang diatas, bisa menggunakan cara ini.
+Setelah run pertama kali, masuk ke folder `output_path` dan hapus folder berikut
+  1. `models`
+  2. `Lora`
+  3. `ESRGAN`
+  4. `embeddings`
+  
+Setelah itu, buat pintasan drive dari folder google drive saya ke `output_path` kalian
+<br>
+<details>
+  <summary> MyDrive/output_path/ </summary>
+    <img src="https://i.ibb.co/y6frwWh/3.png">
+   </summary>
+</details>
+<br>
+
+Setelah itu kalian bisa jalankan ulang dan hasilnya seperti ini
+<br>
+<details>
+  <summary>Loaded Files</summary>
+  <img src="https://i.ibb.co/D1FN00j/4.png">
+  </summary>
+</details>
+<br>
 
 # Credits:
 - SergioDev
