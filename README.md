@@ -30,7 +30,6 @@
 |            |       RatioHelper      |
 |            |   Ultimate_SD_Upscale  |
 |            |     Openpose_Editor    |
-|            |          AddNet        |
 
 3. Klik tombol play untuk run colab (Colab free 5-6 Menit untuk pertama kali run, dan 2 menit untuk re-run jika terjadi kesalahan/crash).
 4. Klik link `gradio.live` atau  `ngrok.io` di log untuk lanjut menggunakan AUTOMATIC1111.
