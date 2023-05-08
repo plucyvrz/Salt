@@ -6,7 +6,9 @@
 </center>
 
 # Run in Colab
-<center><a href="https://colab.research.google.com/github/plucyvrz/WebUI/blob/master/StableDiffusionUI.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></center>
+<center><a href="https://colab.research.google.com/github/plucyvrz/WebUI/blob/master/StableDiffusionUI.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<h2> Dibutuhkan minimal Colab Pro tier ($9.99 / month) agar tidak ke banned dari google colab
+</center>
 
 # Instruksi
 
@@ -15,15 +17,20 @@
 
 2. Ceklis model dan extension yang ingin di gunakan, saat ini ada 30 Models yang berbeda.
 
-| **Models** | **Extension** |
-|:----------:|:-------------:|
-|     v1     |  TagComplete  |
-|     v2     |   ControlNet  |
-|    Anime   |  ImageBrowser |
-|     Art    |   darkTheme   |
-|  Realistic |  InfiniteZoom |
-|            |    DeForum    |
-|            |     AddNet    |
+| **Models** |      **Extension**     |
+|:----------:|:----------------------:|
+|     v1     |       TagComplete      |
+|     v2     |        ControlNet      |
+|    Anime   |       ImageBrowser     |
+|     Art    |        darkTheme       |
+|  Realistic |       InfiniteZoom     |
+|            |         DeForum        |
+|            |          AddNet        |
+|            |      CivitAIBrowser    |
+|            |       RatioHelper      |
+|            |   Ultimate_SD_Upscale  |
+|            |     Openpose_Editor    |
+|            |          AddNet        |
 
 3. Klik tombol play untuk run colab (Colab free 5-6 Menit untuk pertama kali run, dan 2 menit untuk re-run jika terjadi kesalahan/crash).
 4. Klik link `gradio.live` atau  `ngrok.io` di log untuk lanjut menggunakan AUTOMATIC1111.
