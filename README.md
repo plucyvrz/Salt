@@ -15,7 +15,7 @@
 <a href="https://i.ibb.co/r5ZcSV2/image.png"><img src="https://i.ibb.co/r5ZcSV2/image.png" alt="image" border="0"></a>
 1. Periksa username dan password untuk menggunakan WebUI.
 
-2. Ceklis model dan extension yang ingin di gunakan, saat ini ada 30 Models yang berbeda.
+2. Ceklis model dan extension yang ingin di gunakan, jika ingin menggunakan <a href="#files-tambahan-yang-saya-gunakan">files</a> saya, disana terdapat 40 lebih models yang tersedia
 
 | **Models** |      **Extension**     |
 |:----------:|:----------------------:|
@@ -30,6 +30,7 @@
 |            |       RatioHelper      |
 |            |   Ultimate_SD_Upscale  |
 |            |     Openpose_Editor    |
+|            |     Prompt_Enhancer    |
 
 3. Klik tombol play untuk run colab (Colab free 5-6 Menit untuk pertama kali run, dan 2 menit untuk re-run jika terjadi kesalahan/crash).
 4. Klik link `gradio.live` atau  `ngrok.io` di log untuk lanjut menggunakan AUTOMATIC1111.
