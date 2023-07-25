@@ -6,7 +6,7 @@
 </center>
 
 # Run in Colab
-<center><a href="https://colab.research.google.com/github/plucyvrz/WebUI/blob/master/StableDiffusionUI.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<center><a href="https://colab.research.google.com/github/plucyvrz/Salt/blob/master/salt.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 <h2> Dibutuhkan minimal Colab Pro tier ($9.99 / month) agar tidak ke banned dari google colab
 </center>
 
